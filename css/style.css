@@ -169,6 +169,7 @@ a.btn,
 /*============= ZODIAC SECTION =============*/
 .zodiac {
   background-image: url("/img/blue.jpg");
+  background-color: #00336a;
 }
 img {
   height: 150px;
@@ -350,6 +351,7 @@ h3.heading {
 .readings {
   font-family: "Josefin Sans", sans-serif !important;
   background-image: url("/img/readingsbg.jpg") !important;
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 /*--- About UsLight Background Image --*/
@@ -386,6 +388,7 @@ h3.heading {
   transition: transform 0.4s ease;
 
   background-image: url("/img/blue.jpg");
+  background-color: #00336a;
 }
 .card:hover {
   transform: scale(0.95);
